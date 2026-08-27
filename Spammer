@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Saya</title>
+</head>
+<body style="font-family: sans-serif; text-align: center; padding: 40px; background-color: #f4f4f4;">
+    <h1>Halo! Web Saya Sudah Online 🎉</h1>
+    <p>Ini website gratisan yang kubuat lewat HP pakai GitHub Pages.</p>
+</body>
+</html>
